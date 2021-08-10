@@ -1,0 +1,18 @@
+uuid: 0930bf65-b16c-4854-ba1f-e8d3bc5b5055
+langcode: en
+status: false
+dependencies: {  }
+id: node_article_rss
+label: 'RSS (Node, Article)'
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0031
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: node
+bundle: article
+view_mode: rss
+master_template: ''

@@ -1,0 +1,13 @@
+uuid: ec86f7aa-cd25-48f0-bda6-aa2e6a64b122
+langcode: en
+status: false
+dependencies: {  }
+id: paragraph
+label: Paragraph
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0031
+locked: false
+modified: false
+selectable: false
+custom: null
