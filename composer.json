@@ -26,8 +26,8 @@
         "drupal/tome": "^1.0",
         "drupal-tome/tome_drush": "dev-master",
         "webflo/drupal-finder": "^1.2",
-        "acquia/cohesion": "6.6.0",
-        "acquia/cohesion-theme": "6.6.0"
+        "acquia/cohesion": "6.5.1",
+        "acquia/cohesion-theme": "6.5.1"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

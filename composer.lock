@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "420137252d641fbd0a16f9fbea68480b",
+    "content-hash": "9edd55b1ec843d8f834dfbbae6cd06a8",
     "packages": [
         {
             "name": "acquia/cohesion",
-            "version": "6.6.0",
+            "version": "6.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/acquia/cohesion.git",
-                "reference": "91bfaabc430de438070147be39333a734ea293c9"
+                "reference": "7e9a7be653309dcd43a8726164b0cc00a70d80d6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/acquia/cohesion/zipball/91bfaabc430de438070147be39333a734ea293c9",
-                "reference": "91bfaabc430de438070147be39333a734ea293c9",
+                "url": "https://api.github.com/repos/acquia/cohesion/zipball/7e9a7be653309dcd43a8726164b0cc00a70d80d6",
+                "reference": "7e9a7be653309dcd43a8726164b0cc00a70d80d6",
                 "shasum": ""
             },
             "require": {
@@ -66,20 +66,20 @@
                 }
             ],
             "description": "Site Studio",
-            "time": "2021-06-23T13:05:37+00:00"
+            "time": "2021-05-13T12:47:32+00:00"
         },
         {
             "name": "acquia/cohesion-theme",
-            "version": "6.6.0",
+            "version": "6.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/acquia/cohesion-theme.git",
-                "reference": "364d380b550ca010931d36ff3e76b221597f3daf"
+                "reference": "9dd42c1b00df7f5c45d8807bff9661d2cfd0167e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/acquia/cohesion-theme/zipball/364d380b550ca010931d36ff3e76b221597f3daf",
-                "reference": "364d380b550ca010931d36ff3e76b221597f3daf",
+                "url": "https://api.github.com/repos/acquia/cohesion-theme/zipball/9dd42c1b00df7f5c45d8807bff9661d2cfd0167e",
+                "reference": "9dd42c1b00df7f5c45d8807bff9661d2cfd0167e",
                 "shasum": ""
             },
             "type": "drupal-theme",
@@ -95,7 +95,7 @@
                 }
             ],
             "description": "Site Studio minimal theme",
-            "time": "2021-06-23T13:06:00+00:00"
+            "time": "2021-05-13T12:47:55+00:00"
         },
         {
             "name": "asm89/stack-cors",
