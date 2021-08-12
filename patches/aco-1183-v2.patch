@@ -1,0 +1,13 @@
+diff --git a/modules/cohesion_templates/src/Form/MenuTemplatesForm.php b/modules/cohesion_templates/src/Form/MenuTemplatesForm.php
+index 250c6b74a..4216df084 100644
+--- a/modules/cohesion_templates/src/Form/MenuTemplatesForm.php
++++ b/modules/cohesion_templates/src/Form/MenuTemplatesForm.php
+@@ -66,7 +66,7 @@ class MenuTemplatesForm extends TemplateForm {
+ 
+     // Global template uses existing menu mode template suggestion name, whereas
+     // node_type specific templates use custom prefix and suggestion.
+-    $filename_prefix = 'menu' . TemplateStorageBase::TEMPLATE_PREFIX . '-';
++    $filename_prefix = 'menu' . TemplateStorageBase::TEMPLATE_PREFIX;
+     $filename = $filename_prefix . str_replace('_', '-', $entity->get('id'));
+     $entity->set('twig_template', $filename);
+ 

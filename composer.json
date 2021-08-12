@@ -56,7 +56,10 @@
         "patches": {
             "drupal/core": {
                 "Update SQLite's transaction support": "https://www.drupal.org/files/issues/1120020-59.patch"
-              }
+              },
+            "acquia/cohesion": {
+                "Menu template issue fix": "./patches/aco-1183-v2.patch"
+            }
         }
     }
 }
